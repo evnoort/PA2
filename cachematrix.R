@@ -1,4 +1,4 @@
-## This is the implementation of a cache mechanism to hold the inverse of a matrix
+## This is my implementation of a cache mechanism to hold the inverse of a matrix
 
 ## Post: Return a cache matrix object for matrix x.
 ## The cache matrix object stores the matrix and its inverse matrix value  
